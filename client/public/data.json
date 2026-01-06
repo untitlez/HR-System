@@ -1,0 +1,746 @@
+[
+  {
+    "id": 30,
+    "fullName": "Nattapong Kittisak",
+    "gender": "Male",
+    "email": "sophia23@mail.com",
+    "address": "123 หมู่ 4 ต.แม่กุ อ.แม่สอด จ.ตาก 63110",
+    "phone": "080 123 4567",
+    "citizenId": "2-3310-58917-57-2",
+    "birthDate": "1980-09-26",
+    "position": "HR Officer",
+    "startDate": "2021-08-15",
+    "employmentType": "Full-time",
+    "status": "Active",
+    "yearsOfService": 3.8,
+    "salary": 34117,
+    "leaveDays": {
+      "sickLeave": 4,
+      "personalLeave": 6,
+      "vacationLeave": 4
+    },
+    "approval": {
+      "leaveType": "Personal",
+      "days": 2,
+      "leaveDate": "2025-03-12",
+      "note": "ไม่สบาย"
+    }
+  },
+  {
+    "id": 29,
+    "fullName": "Supansa Chaiyasit",
+    "gender": "Female",
+    "email": "maxhunter@mail.com",
+    "address": "89/2 ถ.เจริญประเทศ ต.ช้างคลาน อ.เมือง จ.เชียงใหม่ 50100",
+    "phone": "081 987 6543",
+    "citizenId": "2-9120-85986-85-2",
+    "birthDate": "1966-02-05",
+    "position": "Marketing Specialist",
+    "startDate": "2022-01-10",
+    "employmentType": "Contract",
+    "status": "Active",
+    "yearsOfService": 3.3,
+    "salary": 29437,
+    "leaveDays": {
+      "sickLeave": 6,
+      "personalLeave": 7,
+      "vacationLeave": 6
+    },
+    "approval": {
+      "leaveType": "Sick",
+      "days": 1,
+      "leaveDate": "2025-03-10",
+      "note": "ธุระส่วนตัว"
+    }
+  },
+  {
+    "id": 28,
+    "fullName": "Anucha Rattanapong",
+    "gender": "Female",
+    "email": "zoe_rivera@mail.com",
+    "address": "45 หมู่ 5 ต.ป่าแดด อ.เมือง จ.เชียงราย 57000",
+    "phone": "082 345 6789",
+    "citizenId": "1-7716-10468-31-9",
+    "birthDate": "2001-12-31",
+    "position": "Sales Executive",
+    "startDate": "2023-03-01",
+    "employmentType": "Temporary",
+    "status": "Active",
+    "yearsOfService": 2.1,
+    "salary": 69154,
+    "leaveDays": {
+      "sickLeave": 10,
+      "personalLeave": 5,
+      "vacationLeave": 13
+    },
+    "approval": {
+      "leaveType": "Vacation",
+      "days": 3,
+      "leaveDate": "2025-03-05",
+      "note": "ท่องเที่ยวกับครอบครัว"
+    }
+  },
+  {
+    "id": 27,
+    "fullName": "Kanchana Somboon",
+    "gender": "Male",
+    "email": "liam_dev@mail.com",
+    "address": "78/1 ถ.เจริญเมือง ต.เวียง อ.เมือง จ.แพร่ 54000",
+    "phone": "083 112 2334",
+    "citizenId": "6-3406-23985-35-3",
+    "birthDate": "1973-05-15",
+    "position": "Backend Developer",
+    "startDate": "2020-11-20",
+    "employmentType": "Full-time",
+    "status": "Active",
+    "yearsOfService": 4.5,
+    "salary": 47223,
+    "leaveDays": {
+      "sickLeave": 0,
+      "personalLeave": 3,
+      "vacationLeave": 0
+    },
+    "approval": {
+      "leaveType": "Personal",
+      "days": 1,
+      "leaveDate": "2025-02-28",
+      "note": "ไปหาหมอ"
+    }
+  },
+  {
+    "id": 26,
+    "fullName": "Apichai Boonmee",
+    "gender": "Female",
+    "email": "ella.sunny@mail.com",
+    "address": "155 หมู่ 2 ต.แม่จริม อ.แม่จริม จ.น่าน 55170",
+    "phone": "084 998 8776",
+    "citizenId": "3-5915-66443-45-8",
+    "birthDate": "2000-02-12",
+    "position": "Accountant",
+    "startDate": "2019-07-12",
+    "employmentType": "Full-time",
+    "status": "Resigned",
+    "yearsOfService": 5.9,
+    "salary": 34500,
+    "leaveDays": {
+      "sickLeave": 5,
+      "personalLeave": 6,
+      "vacationLeave": 2
+    }
+  },
+  {
+    "id": 25,
+    "fullName": "Ratchanee Thongchai",
+    "gender": "Female",
+    "email": "ethan.blue@mail.com",
+    "address": "32/7 ซ.วัดกลาง ต.บ้านกลาง อ.เมือง จ.ลำพูน 51000",
+    "phone": "085 556 6778",
+    "citizenId": "7-2011-30347-34-1",
+    "birthDate": "1991-01-04",
+    "position": "Sales Executive",
+    "startDate": "2024-01-01",
+    "employmentType": "Contract",
+    "status": "Active",
+    "yearsOfService": 1.3,
+    "salary": 67336,
+    "leaveDays": {
+      "sickLeave": 9,
+      "personalLeave": 6,
+      "vacationLeave": 15
+    },
+    "approval": {
+      "leaveType": "Vacation",
+      "days": 4,
+      "leaveDate": "2025-03-01",
+      "note": "กลับบ้านต่างจังหวัด"
+    }
+  },
+  {
+    "id": 24,
+    "fullName": "Kittipong Srisuk",
+    "gender": "Female",
+    "email": "ava.coder@mail.com",
+    "address": "222 หมู่ 6 ต.ปง อ.ปง จ.พะเยา 56140",
+    "phone": "086 778 8990",
+    "citizenId": "5-7705-53528-80-1",
+    "birthDate": "1994-03-29",
+    "position": "Accountant",
+    "startDate": "2018-05-05",
+    "employmentType": "Full-time",
+    "status": "Resigned",
+    "yearsOfService": 6.11,
+    "salary": 66447,
+    "leaveDays": {
+      "sickLeave": 4,
+      "personalLeave": 1,
+      "vacationLeave": 15
+    }
+  },
+  {
+    "id": 23,
+    "fullName": "Jirapat Nualchan",
+    "gender": "Female",
+    "email": "noahx7@mail.com",
+    "address": "56/3 หมู่ 9 ต.บ้านต๋อม อ.เมือง จ.พะเยา 56000",
+    "phone": "087 223 3445",
+    "citizenId": "8-1520-56073-96-4",
+    "birthDate": "1997-10-13",
+    "position": "Marketing Specialist",
+    "startDate": "2022-06-18",
+    "employmentType": "Temporary",
+    "status": "Active",
+    "yearsOfService": 2.1,
+    "salary": 35093,
+    "leaveDays": {
+      "sickLeave": 1,
+      "personalLeave": 0,
+      "vacationLeave": 9
+    },
+    "approval": {
+      "leaveType": "Sick",
+      "days": 2,
+      "leaveDate": "2025-03-03",
+      "note": "ดูแลคนในครอบครัว"
+    }
+  },
+  {
+    "id": 22,
+    "fullName": "Suchada Phongsa",
+    "gender": "Male",
+    "email": "mia.spark@mail.com",
+    "address": "120 หมู่ 3 ต.ท่าวังทอง อ.เมือง จ.พะเยา 56000",
+    "phone": "088 667 7889",
+    "citizenId": "8-7308-13703-87-4",
+    "birthDate": "1985-05-22",
+    "position": "Marketing Specialist",
+    "startDate": "2023-10-10",
+    "employmentType": "Contract",
+    "status": "Active",
+    "yearsOfService": 1.6,
+    "salary": 59745,
+    "leaveDays": {
+      "sickLeave": 0,
+      "personalLeave": 5,
+      "vacationLeave": 12
+    },
+    "approval": {
+      "leaveType": "Vacation",
+      "days": 5,
+      "leaveDate": "2025-02-18",
+      "note": "ไปเที่ยวทะเล"
+    }
+  },
+  {
+    "id": 21,
+    "fullName": "Chanin Intharakom",
+    "gender": "Female",
+    "email": "lucas_dev22@mail.com",
+    "address": "67 ถ.ท่าแพ ต.ช้างม่อย อ.เมือง จ.เชียงใหม่ 50300",
+    "phone": "089 334 4556",
+    "citizenId": "4-9610-56362-73-6",
+    "birthDate": "1971-09-08",
+    "position": "Sales Executive",
+    "startDate": "2017-02-01",
+    "employmentType": "Full-time",
+    "status": "Resigned",
+    "yearsOfService": 7.2,
+    "salary": 35806,
+    "leaveDays": {
+      "sickLeave": 5,
+      "personalLeave": 6,
+      "vacationLeave": 5
+    }
+  },
+  {
+    "id": 20,
+    "fullName": "Natthaya Kanchana",
+    "gender": "Male",
+    "email": "chloe_j@mail.com",
+    "address": "77 หมู่ 1 ต.แม่สาย อ.แม่สาย จ.เชียงราย 57130",
+    "phone": "080 445 5667",
+    "citizenId": "6-7619-87954-22-2",
+    "birthDate": "1976-06-10",
+    "position": "Sales Executive",
+    "startDate": "2020-09-01",
+    "employmentType": "Full-time",
+    "status": "Active",
+    "yearsOfService": 4.7,
+    "salary": 44808,
+    "leaveDays": {
+      "sickLeave": 3,
+      "personalLeave": 5,
+      "vacationLeave": 14
+    },
+    "approval": {
+      "leaveType": "Sick",
+      "days": 1,
+      "leaveDate": "2025-03-04",
+      "note": "ไปรับลูกที่โรงเรียน"
+    }
+  },
+  {
+    "id": 19,
+    "fullName": "Worapong Raksakul",
+    "gender": "Female",
+    "email": "jack_red@mail.com",
+    "address": "888 ถ.ลำปาง-แม่ทะ ต.พระบาท อ.เมือง จ.ลำปาง 52000",
+    "phone": "081 556 6778",
+    "citizenId": "7-1611-24328-28-5",
+    "birthDate": "1990-01-29",
+    "position": "Frontend Developer",
+    "startDate": "2024-03-01",
+    "employmentType": "Contract",
+    "status": "Active",
+    "yearsOfService": 1.1,
+    "salary": 31374,
+    "leaveDays": {
+      "sickLeave": 7,
+      "personalLeave": 6,
+      "vacationLeave": 15
+    },
+    "approval": {
+      "leaveType": "Vacation",
+      "days": 2,
+      "leaveDate": "2025-02-22",
+      "note": "พักผ่อน"
+    }
+  },
+  {
+    "id": 18,
+    "fullName": "Siriporn Meesuk",
+    "gender": "Male",
+    "email": "lilycode@mail.com",
+    "address": "23 หมู่ 4 ต.ท่าข้าม อ.ฮอด จ.เชียงใหม่ 50240",
+    "phone": "082 667 7889",
+    "citizenId": "8-6113-76732-82-3",
+    "birthDate": "1974-01-05",
+    "position": "HR Officer",
+    "startDate": "2021-11-30",
+    "employmentType": "Temporary",
+    "status": "Active",
+    "yearsOfService": 3.5,
+    "salary": 19914,
+    "leaveDays": {
+      "sickLeave": 3,
+      "personalLeave": 6,
+      "vacationLeave": 2
+    },
+    "approval": {
+      "leaveType": "Personal",
+      "days": 1,
+      "leaveDate": "2025-03-08",
+      "note": "ฟันคุด"
+    }
+  },
+  {
+    "id": 17,
+    "fullName": "Thanawat Ploysuwan",
+    "gender": "Male",
+    "email": "oliver.dev@mail.com",
+    "address": "59/4 หมู่ 5 ต.ร้องกวาง อ.ร้องกวาง จ.แพร่ 54140",
+    "phone": "083 778 8990",
+    "citizenId": "4-5204-74080-41-1",
+    "birthDate": "1997-09-06",
+    "position": "Accountant",
+    "startDate": "2019-10-10",
+    "employmentType": "Full-time",
+    "status": "Resigned",
+    "yearsOfService": 5.6,
+    "salary": 38597,
+    "leaveDays": {
+      "sickLeave": 5,
+      "personalLeave": 5,
+      "vacationLeave": 15
+    }
+  },
+  {
+    "id": 16,
+    "fullName": "Kannika Yodchai",
+    "gender": "Female",
+    "email": "zoey_cloud@mail.com",
+    "address": "99 หมู่ 10 ต.สะเนียน อ.เมือง จ.น่าน 55000",
+    "phone": "084 889 9001",
+    "citizenId": "2-4708-32570-83-7",
+    "birthDate": "1996-09-29",
+    "position": "Accountant",
+    "startDate": "2022-08-08",
+    "employmentType": "Contract",
+    "status": "Active",
+    "yearsOfService": 2.8,
+    "salary": 56208,
+    "leaveDays": {
+      "sickLeave": 5,
+      "personalLeave": 4,
+      "vacationLeave": 4
+    },
+    "approval": {
+      "leaveType": "Vacation",
+      "days": 3,
+      "leaveDate": "2025-01-03",
+      "note": "ปีใหม่"
+    }
+  },
+  {
+    "id": 15,
+    "fullName": "Piyawat Wattanachai",
+    "gender": "Female",
+    "email": "emilyx3@mail.com",
+    "address": "40 ถ.อินทวโรรส ต.ศรีภูมิ อ.เมือง จ.เชียงใหม่ 50200",
+    "phone": "085 990 0112",
+    "citizenId": "1-6711-07664-12-1",
+    "birthDate": "1974-09-19",
+    "position": "HR Officer",
+    "startDate": "2023-01-05",
+    "employmentType": "Temporary",
+    "status": "Active",
+    "yearsOfService": 2.3,
+    "salary": 44149,
+    "leaveDays": {
+      "sickLeave": 4,
+      "personalLeave": 5,
+      "vacationLeave": 9
+    },
+    "approval": {
+      "leaveType": "Personal",
+      "days": 1,
+      "leaveDate": "2025-03-06",
+      "note": "ท้องเสีย"
+    }
+  },
+  {
+    "id": 14,
+    "fullName": "Arisa Lertsakul",
+    "gender": "Female",
+    "email": "logan_ray@mail.com",
+    "address": "58 หมู่ 8 ต.แม่ทะ อ.แม่ทะ จ.ลำปาง 52150",
+    "phone": "086 101 1121",
+    "citizenId": "5-5403-94276-56-2",
+    "birthDate": "1995-04-07",
+    "position": "Sales Executive",
+    "startDate": "2020-06-01",
+    "employmentType": "Full-time",
+    "status": "Active",
+    "yearsOfService": 4.1,
+    "salary": 58520,
+    "leaveDays": {
+      "sickLeave": 6,
+      "personalLeave": 0,
+      "vacationLeave": 3
+    },
+    "approval": {
+      "leaveType": "Sick",
+      "days": 1,
+      "leaveDate": "2025-02-26",
+      "note": "งานแต่งเพื่อน"
+    }
+  },
+  {
+    "id": 13,
+    "fullName": "Thanachai Boonyong",
+    "gender": "Male",
+    "email": "grace12@mail.com",
+    "address": "12 หมู่ 3 ต.ป่าซาง อ.ป่าซาง จ.ลำพูน 51120",
+    "phone": "087 212 2232",
+    "citizenId": "7-9209-77870-06-4",
+    "birthDate": "1978-12-26",
+    "position": "Sales Executive",
+    "startDate": "2021-04-25",
+    "employmentType": "Contract",
+    "status": "Resigned",
+    "yearsOfService": 3.11,
+    "salary": 74882,
+    "leaveDays": {
+      "sickLeave": 2,
+      "personalLeave": 0,
+      "vacationLeave": 1
+    }
+  },
+  {
+    "id": 12,
+    "fullName": "Pavinee Sutham",
+    "gender": "Male",
+    "email": "aidenvue@mail.com",
+    "address": "17 หมู่ 1 ต.ห้วยไร่ อ.เด่นชัย จ.แพร่ 54110",
+    "phone": "088 323 3343",
+    "citizenId": "2-1025-41353-58-3",
+    "birthDate": "1999-03-16",
+    "position": "Backend Developer",
+    "startDate": "2018-01-10",
+    "employmentType": "Full-time",
+    "status": "Resigned",
+    "yearsOfService": 6.3,
+    "salary": 20411,
+    "leaveDays": {
+      "sickLeave": 0,
+      "personalLeave": 6,
+      "vacationLeave": 15
+    }
+  },
+  {
+    "id": 11,
+    "fullName": "Sarawut Prasert",
+    "gender": "Male",
+    "email": "nora_art@mail.com",
+    "address": "104/1 ต.จอมทอง อ.จอมทอง จ.เชียงใหม่ 50160",
+    "phone": "089 434 4454",
+    "citizenId": "3-9217-87122-16-2",
+    "birthDate": "1989-12-01",
+    "position": "Sales Executive",
+    "startDate": "2024-06-01",
+    "employmentType": "Temporary",
+    "status": "Active",
+    "yearsOfService": 0.1,
+    "salary": 22623,
+    "leaveDays": {
+      "sickLeave": 3,
+      "personalLeave": 2,
+      "vacationLeave": 0
+    },
+    "approval": {
+      "leaveType": "Sick",
+      "days": 1,
+      "leaveDate": "2025-03-11",
+      "note": "สัมภาษณ์งานลูก"
+    }
+  },
+  {
+    "id": 10,
+    "fullName": "Noppawan Khamdee",
+    "gender": "Male",
+    "email": "james.kit@mail.com",
+    "address": "88 ถ.เชียงราย-เทิง ต.เวียง อ.เทิง จ.เชียงราย 57160",
+    "phone": "080 545 5565",
+    "citizenId": "3-7803-58112-03-4",
+    "birthDate": "1977-06-23",
+    "position": "Accountant",
+    "startDate": "2023-07-10",
+    "employmentType": "Contract",
+    "status": "Active",
+    "yearsOfService": 1.9,
+    "salary": 56059,
+    "leaveDays": {
+      "sickLeave": 0,
+      "personalLeave": 2,
+      "vacationLeave": 8
+    },
+    "approval": {
+      "leaveType": "Vacation",
+      "days": 3,
+      "leaveDate": "2025-02-15",
+      "note": "พักร้อนประจำปี"
+    }
+  },
+  {
+    "id": 9,
+    "fullName": "Kritsada Malai",
+    "gender": "Female",
+    "email": "aria.flow@mail.com",
+    "address": "200/9 ต.เวียง อ.เมือง จ.เชียงราย 57000",
+    "phone": "081 656 6676",
+    "citizenId": "3-4715-83583-19-1",
+    "birthDate": "1976-02-28",
+    "position": "Frontend Developer",
+    "startDate": "2019-03-30",
+    "employmentType": "Full-time",
+    "status": "Resigned",
+    "yearsOfService": 6.1,
+    "salary": 32574,
+    "leaveDays": {
+      "sickLeave": 4,
+      "personalLeave": 1,
+      "vacationLeave": 9
+    }
+  },
+  {
+    "id": 8,
+    "fullName": "Orathai Chanthong",
+    "gender": "Female",
+    "email": "carterxy@mail.com",
+    "address": "31 หมู่ 2 ต.ไชยสถาน อ.เมือง จ.น่าน 55000",
+    "phone": "082 767 7787",
+    "citizenId": "1-2901-07500-75-9",
+    "birthDate": "1970-12-17",
+    "position": "Accountant",
+    "startDate": "2020-12-15",
+    "employmentType": "Contract",
+    "status": "Active",
+    "yearsOfService": 4.4,
+    "salary": 31540,
+    "leaveDays": {
+      "sickLeave": 10,
+      "personalLeave": 1,
+      "vacationLeave": 5
+    },
+    "approval": {
+      "leaveType": "Sick",
+      "days": 1,
+      "leaveDate": "2025-02-21",
+      "note": "พบเจ้าหน้าที่ธนาคาร"
+    }
+  },
+  {
+    "id": 7,
+    "fullName": "Ekkachai Sukkasem",
+    "gender": "Female",
+    "email": "ruby.devx@mail.com",
+    "address": "145/6 ถ.สนามบิน ต.สบตุ๋ย อ.เมือง จ.ลำปาง 52100",
+    "phone": "083 878 8898",
+    "citizenId": "3-8704-37924-27-8",
+    "birthDate": "1990-02-03",
+    "position": "Backend Developer",
+    "startDate": "2022-03-01",
+    "employmentType": "Temporary",
+    "status": "Active",
+    "yearsOfService": 3.1,
+    "salary": 33244,
+    "leaveDays": {
+      "sickLeave": 0,
+      "personalLeave": 1,
+      "vacationLeave": 5
+    },
+    "approval": {
+      "leaveType": "Vacation",
+      "days": 4,
+      "leaveDate": "2025-02-14",
+      "note": "ท่องเที่ยวกับแฟน"
+    }
+  },
+  {
+    "id": 6,
+    "fullName": "Suphaphon Thonglor",
+    "gender": "Female",
+    "email": "henry_10@mail.com",
+    "address": "14 หมู่ 7 ต.บ้านกาศ อ.สูงเม่น จ.แพร่ 54130",
+    "phone": "084 989 9909",
+    "citizenId": "8-9204-50052-40-8",
+    "birthDate": "1978-06-22",
+    "position": "Accountant",
+    "startDate": "2021-06-06",
+    "employmentType": "Contract",
+    "status": "Resigned",
+    "yearsOfService": 3.1,
+    "salary": 74198,
+    "leaveDays": {
+      "sickLeave": 0,
+      "personalLeave": 2,
+      "vacationLeave": 2
+    }
+  },
+  {
+    "id": 5,
+    "fullName": "Chonlada Rungroj",
+    "gender": "Male",
+    "email": "ivy_leaf@mail.com",
+    "address": "5 หมู่ 6 ต.แม่เมาะ อ.แม่เมาะ จ.ลำปาง 52220",
+    "phone": "085 090 0010",
+    "citizenId": "1-9407-30075-20-6",
+    "birthDate": "1964-11-24",
+    "position": "HR Officer",
+    "startDate": "2016-12-01",
+    "employmentType": "Full-time",
+    "status": "Resigned",
+    "yearsOfService": 8.4,
+    "salary": 66294,
+    "leaveDays": {
+      "sickLeave": 7,
+      "personalLeave": 4,
+      "vacationLeave": 12
+    }
+  },
+  {
+    "id": 4,
+    "fullName": "Pongsakorn Kongsri",
+    "gender": "Female",
+    "email": "owen_qt@mail.com",
+    "address": "90/3 ถ.ราชวงศ์ ต.ฟ้าฮ่าม อ.เมือง จ.เชียงใหม่ 50000",
+    "phone": "086 101 1122",
+    "citizenId": "7-1718-66229-16-4",
+    "birthDate": "1999-11-24",
+    "position": "Accountant",
+    "startDate": "2023-05-01",
+    "employmentType": "Temporary",
+    "status": "Active",
+    "yearsOfService": 1.11,
+    "salary": 69224,
+    "leaveDays": {
+      "sickLeave": 6,
+      "personalLeave": 2,
+      "vacationLeave": 12
+    },
+    "approval": {
+      "leaveType": "Vacation",
+      "days": 2,
+      "leaveDate": "2025-02-12",
+      "note": "ไปสวนสัตว์กับครอบครัว"
+    }
+  },
+  {
+    "id": 3,
+    "fullName": "Kamonchanok Lertchai",
+    "gender": "Female",
+    "email": "hazelweb@mail.com",
+    "address": "71 หมู่ 5 ต.บ้านกลาง อ.สอง จ.แพร่ 54120",
+    "phone": "087 213 2233",
+    "citizenId": "2-1518-26071-24-1",
+    "birthDate": "1969-04-15",
+    "position": "Accountant",
+    "startDate": "2018-11-01",
+    "employmentType": "Full-time",
+    "status": "Resigned",
+    "yearsOfService": 6.5,
+    "salary": 73936,
+    "leaveDays": {
+      "sickLeave": 2,
+      "personalLeave": 2,
+      "vacationLeave": 12
+    }
+  },
+  {
+    "id": 2,
+    "fullName": "Wichai Yimsri",
+    "gender": "Male",
+    "email": "leo_maxx@mail.com",
+    "address": "300 หมู่ 1 ต.แม่กา อ.เมือง จ.พะเยา 56000",
+    "phone": "088 324 3344",
+    "citizenId": "1-9101-79869-66-3",
+    "birthDate": "1980-06-16",
+    "position": "Accountant",
+    "startDate": "2022-11-11",
+    "employmentType": "Contract",
+    "status": "Active",
+    "yearsOfService": 2.5,
+    "salary": 64857,
+    "leaveDays": {
+      "sickLeave": 6,
+      "personalLeave": 5,
+      "vacationLeave": 14
+    },
+    "approval": {
+      "leaveType": "Sick",
+      "days": 1,
+      "leaveDate": "2025-02-23",
+      "note": "ต่อใบขับขี่"
+    }
+  },
+  {
+    "id": 1,
+    "fullName": "Lalita Chanklom",
+    "gender": "Female",
+    "email": "ella_wave@mail.com",
+    "address": "50 ถ.ราชพฤกษ์ ต.ท่าศาลา อ.เมือง จ.เชียงใหม่ 50000",
+    "phone": "089 435 4455",
+    "citizenId": "7-3719-37887-92-2",
+    "birthDate": "1976-03-26",
+    "position": "Sales Executive",
+    "startDate": "2017-08-01",
+    "employmentType": "Full-time",
+    "status": "Resigned",
+    "yearsOfService": 7.8,
+    "salary": 69367,
+    "leaveDays": {
+      "sickLeave": 9,
+      "personalLeave": 3,
+      "vacationLeave": 8
+    }
+  }
+]
